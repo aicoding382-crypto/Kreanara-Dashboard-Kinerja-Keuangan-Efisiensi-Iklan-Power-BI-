@@ -3,7 +3,7 @@
 > Dashboard interaktif 2 halaman yang menjawab satu pertanyaan bisnis: **"Iklan kita ramai dan murah, tapi kenapa bisnisnya tetap rugi?"**
 
 ![Power BI](https://img.shields.io/badge/Tool-Power%20BI-F2C811?logo=powerbi&logoColor=black)
-![Periode](https://img.shields.io/badge/Periode-2022--2024-blue)
+![Periode](https://img.shields.io/badge/Periode-2024--2026-blue)
 ![Fokus](https://img.shields.io/badge/Fokus-Finance%20%26%20Marketing%20Analytics-green)
 
 ---
@@ -23,10 +23,10 @@ Manajemen perlu tahu apakah anggaran pemasaran dan operasional benar-benar mengh
 ## 🖼️ Tampilan Dashboard
 
 ### Halaman 1: Laporan Kinerja Keuangan & Laba Rugi
-![Halaman 1](images/halaman-1-pnl.png)
+![Halaman 1](imange.kreanara.png)
 
 ### Halaman 2: Analisis Performa Pemasaran & Efisiensi Iklan
-![Halaman 2](images/halaman-2-marketing.png)
+![Halaman 2](imange.kreanara2.png)
 
 > **Interaktif:** gunakan *slicer* **Tahun** (2022, 2023, 2024) di tiap halaman. Seluruh angka di bawah memakai data **tahun 2022** sebagai contoh analisis.
 
