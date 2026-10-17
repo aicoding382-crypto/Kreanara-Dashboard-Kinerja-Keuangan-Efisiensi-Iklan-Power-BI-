@@ -101,5 +101,5 @@ Pengeluaran memuncak pada **Maret (Rp316,8 Juta)** dan **April (Rp285,6 Juta)**,
 
 ## 👤 Tentang Saya
 
-**Bangker**: lulusan Teknik Informatika, berfokus pada Data Analyst / Data Scientist.
-📫 Hubungi saya: *[tambahkan LinkedIn / email]*
+**MUHAMMAD AS'AD DIFINUBUN**: lulusan Teknik Informatika, berfokus pada Data Analyst / Data Scientist.
+📫 Hubungi saya: *(https://www.linkedin.com/in/muhammad-as-ad-difinubun-9b9476422/?isSelfProfile=true)] /([aicoding382@gmail.com])*
